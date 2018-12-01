@@ -13,8 +13,5 @@ header {
 }
 
 .container {
-  border-top: solid;
-  border-bottom: solid;
-  border-left: solid;
-  border-right: solid;
+  border-style: solid;
 }
